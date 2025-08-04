@@ -5,7 +5,7 @@
 
 注：
 
-- 规则的物体可以是圆形、矩形，三角形等。
+- 规则的物体可以是圆形、矩形，三角形等。相同颜色重叠的时候可以不用管，不同颜色重叠的时候只用管上面那个
 - `cv2.circle` 可以画出圆圈
 - `image = cv2.putText(img, text, org, fontFace, fontScale, color[, thickness[, lineType[, bottomLeftOrigin]]])` 可以绘制文本
 
