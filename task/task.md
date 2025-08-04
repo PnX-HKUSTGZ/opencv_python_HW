@@ -65,3 +65,11 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+
+提交方式：
+
+在GitHub上fork这个仓库
+
+克隆被fork的仓库，在`homework`目录下创建一个自己名字的文件夹，完成作业，并将处理后的结果放在里面，名字为 `res.mp4` 
+
+然后向战队的仓库提交pr即可。
